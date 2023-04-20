@@ -1,1 +1,1 @@
-get-item c:\temp | Get-ChildItem -Name dummyfile.txt
+Get-ChildItem -Path c:\tmp\ 
